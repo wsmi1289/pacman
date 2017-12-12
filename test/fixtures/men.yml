@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  row: 1
+  column: 1
+  dirX: 1
+  dirY: 1
+  lives: 1
+  type: 
+  color: MyString
+
+two:
+  row: 1
+  column: 1
+  dirX: 1
+  dirY: 1
+  lives: 1
+  type: 
+  color: MyString
